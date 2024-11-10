@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/binarycalculator",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\BinaryCalculator\\": "app/",
+            "Modules\\BinaryCalculator\\Database\\Factories\\": "database/factories/",
+            "Modules\\BinaryCalculator\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\BinaryCalculator\\Tests\\": "tests/"
+        }
+    }
+}

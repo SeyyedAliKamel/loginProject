@@ -1,5 +1,6 @@
 {
     "TestModule": true,
     "Test": true,
-    "Game": true
+    "Game": true,
+    "BinaryCalculator": true
 }

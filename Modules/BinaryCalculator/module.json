@@ -1,0 +1,11 @@
+{
+    "name": "BinaryCalculator",
+    "alias": "binarycalculator",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BinaryCalculator\\Providers\\BinaryCalculatorServiceProvider"
+    ],
+    "files": []
+}
